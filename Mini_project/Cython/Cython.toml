@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun May 23 14:42:05 2021
+
+@author: dksan
+"""
+
+[build-system]
+requires = ["setuptools", "wheel", "Cython"]
